@@ -1,6 +1,8 @@
 # HueFlow
 HueFlow es un programa para generar paletas de colores de forma generativa, pudiendo variar entre distintos estilos y combinaciones.
 
+![Logo  Recuperado](https://github.com/user-attachments/assets/60a3bf47-72b5-493a-9ca8-5deb3b715dcc)
+
 HueFlow contiene un total de 12 colores que se pueden tomar para elegir el color principal, a partir del cual, según la elección del usuario
 se calcularán otros 4 colores.
 
